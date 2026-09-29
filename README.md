@@ -2,7 +2,7 @@
 
 **Live Demo:** https://hrax-v-giritharan.netlify.app
 **GitHub:** https://github.com/giritharanv2006-png/HRAX-AI-Platform
-**Built by:** Giritharan V | Ramanathapuram, TN
+**Built by:** Giritharan V | Salem, TN
 
 ### ✨ What is HRAX?
 HRAX is a next-gen AI HR Management Platform that automates recruitment, employee onboarding, and performance tracking. Built to make HR work 10x faster.
@@ -23,7 +23,7 @@ HRAX is a next-gen AI HR Management Platform that automates recruitment, employe
 ### 👨‍💻 Developer
 **Giritharan V**
 Full Stack Developer | AI Enthusiast
-📍 Ramanathapuram, Tamil Nadu
+📍 Salem, Tamil Nadu
 
 ---
 ⭐ Star this repo if you like it!
